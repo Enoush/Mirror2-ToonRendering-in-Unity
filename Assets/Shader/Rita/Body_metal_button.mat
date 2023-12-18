@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Body_metal_button
+  m_Shader: {fileID: 4800000, guid: 933803b4326653f4c8ae78c5feb4131d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: a7d5a13d1e944e14bb5747b80098aa79, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CompMap:
+        m_Texture: {fileID: 2800000, guid: 1fdce7a06fa666343b51d4cf6890472c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeMap:
+        m_Texture: {fileID: 8900000, guid: 3338169c6d2086940b00e0eb53591a1b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffRampMap:
+        m_Texture: {fileID: 2800000, guid: 04aca538ef063d047beef63aaa058960, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: af71a34b238948940a58b4991778a26f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Expose: 1
+    - _OutLineWidth: 2
+    - _OutLineZbias: -10
+    - _Rotate: 0
+    - _SpecularIntensity: 5
+    - _SpecularScale: 2
+    - _ToonColor11Offset: 0
+    - _ToonColor1Offset: 0
+    - _ToonTransit: 0.5
+    - _ToonhardNess: 90
+    - _ToonthreShold: 0.5
+    m_Colors:
+    - _DiffuseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OutLineColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecularColor: {r: 0.052445047, g: 0.043609813, b: 0.066037714, a: 1}
+    - _Tint: {r: 1, g: 1, b: 1, a: 1}
+    - _ToonColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ToonColor1: {r: 1, g: 1, b: 1, a: 1}

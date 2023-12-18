@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Skin_Face
+  m_Shader: {fileID: 4800000, guid: 1b6011f6881795d4ab09df53819ad3d2, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 70bb5ca4e6b971347bccc64aa7e6879f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CompMap:
+        m_Texture: {fileID: 2800000, guid: ee096822adbd6fc4c91769e24d12a69d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeMap:
+        m_Texture: {fileID: 8900000, guid: 3338169c6d2086940b00e0eb53591a1b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffRampMap:
+        m_Texture: {fileID: 2800000, guid: 04aca538ef063d047beef63aaa058960, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RampMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Expose: 1
+    - _OutLineWidth: 3
+    - _OutLineZbias: -10
+    - _SpecularIntensity: 0.01
+    - _SpecularScale: 5
+    - _ToonColor11Offset: 0
+    - _ToonColor1Offset: 0.05
+    - _ToonTransit: 0.34
+    - _ToonhardNess: 20
+    - _ToonthreShold: 0.56
+    m_Colors:
+    - _AddDiffuseColor: {r: 0, g: 0, b: 0, a: 1}
+    - _DiffuseColor: {r: 0.89130175, g: 0.83730865, b: 0.9245283, a: 1}
+    - _OutLineColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecularColor: {r: 0, g: 0, b: 0, a: 0}
+    - _ToonColor: {r: 0.8867924, g: 0.67764324, b: 0.7460565, a: 1}
+    - _ToonColor1: {r: 0.6886792, g: 0.18191525, b: 0.3456865, a: 1}

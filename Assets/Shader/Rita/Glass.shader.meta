@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 971989a57f28658429d27838876c7e1c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _RefractCatMap: {fileID: 2800000, guid: 352cf7093fb6257468ab640bb92e02c4, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

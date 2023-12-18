@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Skin_pf
+  m_Shader: {fileID: 4800000, guid: 1b6011f6881795d4ab09df53819ad3d2, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: a7d5a13d1e944e14bb5747b80098aa79, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CompMap:
+        m_Texture: {fileID: 2800000, guid: 1fdce7a06fa666343b51d4cf6890472c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeMap:
+        m_Texture: {fileID: 8900000, guid: 3338169c6d2086940b00e0eb53591a1b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffRampMap:
+        m_Texture: {fileID: 2800000, guid: 04aca538ef063d047beef63aaa058960, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RampMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Expose: 1
+    - _OutLineWidth: 0
+    - _OutLineZbias: -10
+    - _SpecularIntensity: 0.01
+    - _SpecularScale: 5
+    - _ToonColor11Offset: -0.1
+    - _ToonColor1Offset: -0.16
+    - _ToonColorOffset: 0
+    - _ToonTransit: 0.1
+    - _ToonhardNess: 20
+    - _ToonthreShold: 0.56
+    m_Colors:
+    - _AddDiffuseColor: {r: 0, g: 0, b: 0, a: 0}
+    - _DiffuseColor: {r: 0.4716981, g: 0.4716981, b: 0.4716981, a: 1}
+    - _OutLineColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecularColor: {r: 0.4339623, g: 0.4339623, b: 0.4339623, a: 0}
+    - _ToonColor: {r: 0.8867924, g: 0.67764324, b: 0.7460565, a: 1}
+    - _ToonColor1: {r: 0.5377358, g: 0.4482527, b: 0.33481663, a: 1}

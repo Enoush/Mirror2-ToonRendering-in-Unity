@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Skin_eye
+  m_Shader: {fileID: 4800000, guid: 14a05bf54d806244498891a34ba15c86, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 70bb5ca4e6b971347bccc64aa7e6879f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CompMap:
+        m_Texture: {fileID: 2800000, guid: ee096822adbd6fc4c91769e24d12a69d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeMap:
+        m_Texture: {fileID: 8900000, guid: d4dd7a568e0c95047bdae76ef4bedb5f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DecalMap:
+        m_Texture: {fileID: 2800000, guid: 352cf7093fb6257468ab640bb92e02c4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffRampMap:
+        m_Texture: {fileID: 2800000, guid: 04aca538ef063d047beef63aaa058960, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: a6a5e93e1e1296448b8f75a6539e80d7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Expose: 1.5
+    - _OutLineWidth: 2
+    - _OutLineZbias: -10
+    - _Roughness: 0.2
+    - _SpecularIntensity: 1
+    - _SpecularScale: 1.24
+    - _ToonColor1Offset: 0
+    - _ToonTransit: 0.5
+    - _ToonhardNess: 50
+    - _ToonthreShold: 0.5
+    m_Colors:
+    - _DiffuseColor: {r: 0.24083306, g: 0.45331794, b: 0.7735849, a: 1}
+    - _EnvColor: {r: 0.49056602, g: 0.7276295, b: 1, a: 1}
+    - _HighlightColor: {r: 0, g: 0, b: 0.15686275, a: 1}
+    - _OutLineColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecularColor: {r: 0, g: 0, b: 0, a: 0}
+    - _ToonColor1: {r: 1, g: 1, b: 1, a: 1}
